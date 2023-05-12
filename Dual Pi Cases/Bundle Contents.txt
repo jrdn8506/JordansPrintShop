@@ -1,0 +1,10 @@
+ -3D Printed Case
+ -Sata to USB adapter
+ -Power Supply with on/off Switch
+ -Micro HDMI to HDMI Cable
+ -Noctua 40mm 5v PWM fan
+ -High Endurance SD Card
+ -Heatsinks
+ -SD Card Reader
+ -Screws for Fastnening Backplate or SSD
+ -Screws for Fastnening Pis
